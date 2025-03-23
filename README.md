@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahashahid-source&label=Profile%20views&color=0e75b6&style=flat" alt="tahashahid-source" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahashahid-source" alt="tahashahid-source" /></a> </p>
-
 - 🤝 I’m looking for help with **Websites**
 
 - 💬 Ask me about **Website Building**
