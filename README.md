@@ -1,26 +1,73 @@
 <h1 align="center">Hi 👋, I'm Taha Shahid</h1>
-<h3 align="center">A passionate Website developer from Pakistan</h3>
+<h3 align="center">A passionate Website Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahashahid-source&label=Profile%20views&color=0e75b6&style=flat" alt="tahashahid-source" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahashahid-source" alt="tahashahid-source" /></a> </p>
 
-- 🤝 I’m looking for help with **Websites**
+---
 
-- 💬 Ask me about **Website Building**
+### About Me 🧑‍💻
 
-- 📫 How to reach me **tahashahid468@gmail.com**
+I'm a **Website Developer** with a passion for building modern, responsive, and user-friendly websites. I enjoy turning ideas into reality through code and constantly strive to learn and improve my skills. Currently, I'm focused on **frontend and backend development**, and I'm always open to collaborating on exciting projects.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### Skills & Tools 🛠️
+
+Here are some of the technologies and tools I work with:
+
+- **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap
+- **Backend**: Node.js, Express.js, Django
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git, VS Code, Figma, Photoshop
+- **Languages**: Python, C++, JavaScript
+
+---
+
+### Projects 🚀
+
+Here are some of the projects I've worked on:
+
+1. **Personal Portfolio Website**  
+   A fully responsive portfolio showcasing my skills and projects.  
+   [Live Demo](https://tahashahid.com) | [GitHub Repo](https://github.com/tahashahid/portfolio)
+
+2. **E-commerce Platform**  
+   A full-stack e-commerce website built with React and Node.js.  
+   [Live Demo](https://ecommerce-taha.vercel.app) | [GitHub Repo](https://github.com/tahashahid/ecommerce)
+
+3. **Blogging Platform**  
+   A CRUD-based blogging platform using Django.  
+   [Live Demo](https://blog-taha.herokuapp.com) | [GitHub Repo](https://github.com/tahashahid/blog-platform)
+
+---
+
+### Connect with Me 🌐
+
+Let's connect and collaborate! You can find me on:
+
+- **GitHub**: [tahashahid-source](https://github.com/tahashahid-source)
+- **Email**: tahashahid468@gmail.com
+
+---
+
+### GitHub Stats 📊
+
 <p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahashahid-source&show_icons=true&locale=en&layout=compact" alt="tahashahid-source" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tahashahid-source&show_icons=true&locale=en" alt="tahashahid-source" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahashahid-source&show_icons=true&locale=en&layout=compact" alt="tahashahid-source" /></p>
+<p align="center"> 
+  <img src="https://media.giphy.com/media/3o7TKsQ8gIoJkK6I9q/giphy.gif" alt="Coding GIF" width="200" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahashahid-source&show_icons=true&locale=en" alt="tahashahid-source" /></p>
+---
+
+**Thank you for visiting my profile! Have a great day! 😄**
 
 ---
 
