@@ -1,84 +1,26 @@
-# Welcome to Taha Shahid's Repository! 👋
+<h1 align="center">Hi 👋, I'm Taha Shahid</h1>
+<h3 align="center">A passionate Website developer from Pakistan</h3>
 
-![Taha Shahid](https://media.giphy.com/media/3o7TKsQ8gIoJkK6I9q/giphy.gif)  
-*"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahashahid-source&label=Profile%20views&color=0e75b6&style=flat" alt="tahashahid-source" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahashahid-source" alt="tahashahid-source" /></a> </p>
 
-## About Me 🧑‍💻
+- 🤝 I’m looking for help with **Websites**
 
-Hey there! I'm **Taha Shahid**, a passionate programmer and web development enthusiast. I love building things that live on the internet, whether it's websites, applications, or anything in between. I'm constantly learning and exploring new technologies to improve my skills and create amazing projects.
+- 💬 Ask me about **Website Building**
 
----
+- 📫 How to reach me **tahashahid468@gmail.com**
 
-## Skills & Tools 🛠️
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Here are some of the tools and technologies I work with:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### Programming Languages
-- **HTML**, **CSS**, **JavaScript**
-- **Python**, **Java**, **C++**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahashahid-source&show_icons=true&locale=en&layout=compact" alt="tahashahid-source" /></p>
 
-### Web Development
-- **Frontend**: React.js, Bootstrap, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MySQL, Firebase
-
-### Developer Tools
-- **Version Control**: Git, GitHub
-- **IDEs**: VS Code, IntelliJ IDEA
-- **Package Managers**: npm, yarn
-- **APIs**: RESTful APIs, GraphQL
-
-### Other Tools
-- **Design**: Figma, Adobe XD
-- **Deployment**: Netlify, Vercel, Heroku
-- **Testing**: Jest, Postman
-
----
-
-## Projects 🚀
-
-Here are some of the projects I've worked on:
-
-1. **Personal Portfolio Website**  
-   A fully responsive portfolio website showcasing my skills, projects, and contact information.  
-   [Live Demo](https://tahashahid.com) | [GitHub Repo](https://github.com/tahashahid/portfolio)
-
-2. **E-commerce Website**  
-   A full-stack e-commerce platform built with React, Node.js, and MongoDB.  
-   [Live Demo](https://ecommerce-taha.vercel.app) | [GitHub Repo](https://github.com/tahashahid/ecommerce)
-
-3. **Blogging Platform**  
-   A blogging platform where users can create, read, update, and delete posts.  
-   [Live Demo](https://blog-taha.herokuapp.com) | [GitHub Repo](https://github.com/tahashahid/blog-platform)
-
----
-
-## Learning Journey 📚
-
-I'm currently learning:
-- **Advanced React.js** (State management, Context API, Redux)
-- **Next.js** for server-side rendering
-- **GraphQL** for efficient API queries
-- **Web Accessibility** (a11y) to build inclusive web applications
-
----
-
-## Connect with Me 🌐
-
-Let's connect and collaborate! You can find me on:
-
-- **GitHub**: [tahashahid](https://github.com/tahashahid)
-- **LinkedIn**: [Taha Shahid](https://linkedin.com/in/tahashahid)
-- **Twitter**: [@TahaShahidDev](https://twitter.com/TahaShahidDev)
-- **Email**: tahashahid.dev@gmail.com
-
----
-
-## Fun Fact 🎉
-
-Did you know? The first computer programmer was a woman named **Ada Lovelace**! She wrote the first algorithm intended to be processed by a machine. 💻✨
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahashahid-source&show_icons=true&locale=en" alt="tahashahid-source" /></p>
 
 ---
 
